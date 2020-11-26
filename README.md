@@ -2,8 +2,6 @@
 16.11.2020
 ![Excess deaths in Turkey](https://github.com/gucluyaman/Excess-mortality-in-Turkey/blob/master/images/ExcessDeaths.20201116.jpg)
 
-Excess deaths by Population
-![Excess deaths by population](https://github.com/gucluyaman/Excess-mortality-in-Turkey/blob/master/Excess-Deaths-In.Cities-Until-29thSeptember/ExcessDeathsByPopulation.jpg)
 
 Ankara
 ![Ankara](https://github.com/gucluyaman/Excess-mortality-in-Turkey/blob/master/Excess-Deaths-In.Cities-Until-29thSeptember/ankara.jpg)
@@ -16,9 +14,6 @@ Denizli
 
 Diyarbakir
 ![Ankara](https://github.com/gucluyaman/Excess-mortality-in-Turkey/blob/master/Excess-Deaths-In.Cities-Until-29thSeptember/diyarbakir.jpg)
-
-Edirne
-![Ankara](https://github.com/gucluyaman/Excess-mortality-in-Turkey/blob/master/Excess-Deaths-In.Cities-Until-29thSeptember/edirne.jpg)
 
 Elazig
 ![Ankara](https://github.com/gucluyaman/Excess-mortality-in-Turkey/blob/master/Excess-Deaths-In.Cities-Until-29thSeptember/elazig.jpg)
