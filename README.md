@@ -2,6 +2,8 @@
 16.11.2020
 ![Excess deaths in Turkey](https://github.com/gucluyaman/Excess-mortality-in-Turkey/blob/master/images/ExcessDeaths.20201116.jpg)
 
+Usak
+![Usak](https://github.com/gucluyaman/Excess-mortality-in-Turkey/raw/master/images/usak.jpg)
 
 Ankara
 ![Ankara](https://github.com/gucluyaman/Excess-mortality-in-Turkey/blob/master/Excess-Deaths-In.Cities-Until-29thSeptember/ankara.jpg)
